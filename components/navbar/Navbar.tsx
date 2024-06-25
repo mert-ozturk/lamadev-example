@@ -9,8 +9,8 @@ const links = [
   },
   {
     id: 2,
-    title: "Portfolio",
-    url: "/portfolio",
+    title: "Portfilo",
+    url: "/portfilo",
   },
   {
     id: 3,
